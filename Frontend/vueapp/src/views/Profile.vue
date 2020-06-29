@@ -76,7 +76,7 @@
                     ></b-avatar>
                     {{ usersInfo.username }}
 
-                    <b-button size="sm" v-if="korisnik && korisnik.isAdmin==1" class="dugme" type="danger" variant="outline-danger">Izbrisi korisnika</b-button>
+                    <b-button size="sm" @click="izbrisiProfil(usersInfo.username)" v-if="korisnik && korisnik.isAdmin==1" class="dugme" type="danger" variant="outline-danger">Izbrisi korisnika</b-button>
 
 
                     <b-button

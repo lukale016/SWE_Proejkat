@@ -303,7 +303,7 @@ export default {
       this.proveraKorisnika(this.commentForEdit.owner)
        axios({
             method: 'put',
-            url: 'http://localhost:8080/Vinyl/Update/Comment/'+ id,
+            url: 'http://localhost:8080/Vinyl/Update/Comment',
             headers: {
               'Access-Control-Allow-Origin': '*',
               'Content-Type': 'application/json',
@@ -311,7 +311,8 @@ export default {
               Authorization: 'Bearer ' + localStorage.token
             },
             data: {
-             BoundRecordRef:id,
+             Id:id,
+             BoundRecordRef: this.ploca.id,
              OwnerRef:localStorage.user,
              Content:this.Content
             }

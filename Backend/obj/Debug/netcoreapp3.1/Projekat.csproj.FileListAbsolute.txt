@@ -1,0 +1,170 @@
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\appsettings.json
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Projekat.exe
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Projekat.deps.json
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Projekat.runtimeconfig.json
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Projekat.runtimeconfig.dev.json
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Projekat.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Projekat.pdb
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.OData.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.csprojAssemblyReference.cache
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.MvcApplicationPartsAssemblyInfo.cs
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.MvcApplicationPartsAssemblyInfo.cache
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.AssemblyInfoInputs.cache
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.AssemblyInfo.cs
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.RazorTargetAssemblyInfo.cache
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.csproj.CopyComplete
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\staticwebassets\Projekat.StaticWebAssets.Manifest.cache
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\staticwebassets\Projekat.StaticWebAssets.xml
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.dll
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.pdb
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\microsoft.identitymodel.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.csproj.CoreCompileInputs.cache
+D:\3.Godina\SI\Projekat\obj\Debug\netcoreapp3.1\Projekat.genruntimeconfig.cache
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\3.Godina\SI\Projekat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Projekat.exe
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Projekat.deps.json
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Projekat.runtimeconfig.json
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Projekat.runtimeconfig.dev.json
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Projekat.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Projekat.pdb
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.OData.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\microsoft.identitymodel.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.csprojAssemblyReference.cache
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.AssemblyInfoInputs.cache
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.AssemblyInfo.cs
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.csproj.CoreCompileInputs.cache
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.MvcApplicationPartsAssemblyInfo.cs
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.MvcApplicationPartsAssemblyInfo.cache
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.RazorTargetAssemblyInfo.cache
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.csproj.CopyComplete
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\staticwebassets\Projekat.StaticWebAssets.Manifest.cache
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\staticwebassets\Projekat.StaticWebAssets.xml
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.dll
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.pdb
+C:\Didi carica\Vl semestar\2020\SWE\Backend\Backend8\obj\Debug\netcoreapp3.1\Projekat.genruntimeconfig.cache

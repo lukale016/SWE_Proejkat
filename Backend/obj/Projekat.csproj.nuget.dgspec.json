@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Didi carica\\Vl semestar\\2020\\SWE\\Backend\\Backend8\\Projekat.csproj": {}
+    "c:\\-4thGrade-\\StariProjekat\\si.20.15.vinyl\\Backend\\Projekat.csproj": {}
   },
   "projects": {
-    "C:\\Didi carica\\Vl semestar\\2020\\SWE\\Backend\\Backend8\\Projekat.csproj": {
+    "c:\\-4thGrade-\\StariProjekat\\si.20.15.vinyl\\Backend\\Projekat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Didi carica\\Vl semestar\\2020\\SWE\\Backend\\Backend8\\Projekat.csproj",
+        "projectUniqueName": "c:\\-4thGrade-\\StariProjekat\\si.20.15.vinyl\\Backend\\Projekat.csproj",
         "projectName": "Projekat",
-        "projectPath": "C:\\Didi carica\\Vl semestar\\2020\\SWE\\Backend\\Backend8\\Projekat.csproj",
-        "packagesPath": "C:\\Users\\PCC1219\\.nuget\\packages\\",
-        "outputPath": "C:\\Didi carica\\Vl semestar\\2020\\SWE\\Backend\\Backend8\\obj\\",
+        "projectPath": "c:\\-4thGrade-\\StariProjekat\\si.20.15.vinyl\\Backend\\Projekat.csproj",
+        "packagesPath": "C:\\Users\\Luka\\.nuget\\packages\\",
+        "outputPath": "c:\\-4thGrade-\\StariProjekat\\si.20.15.vinyl\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PCC1219\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "HangFire": {
               "target": "Package",
@@ -111,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
